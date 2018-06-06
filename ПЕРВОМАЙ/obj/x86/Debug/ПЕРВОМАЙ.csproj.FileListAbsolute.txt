@@ -1,0 +1,50 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Properties.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Form1.resources
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Properties.Resources.resources
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\NAudio.dll
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.exe
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.pdb
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\NAudio.dll
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csprojResolveAssemblyReference.cache
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Form1.resources
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Properties.Resources.resources
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csproj.GenerateResource.Cache
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csproj.CoreCompileInputs.cache
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.exe
+C:\Users\Che\Desktop\Дипломчик\Володько\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.pdb
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.exe
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.pdb
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\NAudio.dll
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csprojResolveAssemblyReference.cache
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Form1.resources
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Properties.Resources.resources
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csproj.GenerateResource.Cache
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csproj.CoreCompileInputs.cache
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.exe
+C:\Users\Che\Desktop\PROEKT_PERVOMAJ\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.pdb
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.exe
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\ПЕРВОМАЙ.pdb
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\bin\Debug\NAudio.dll
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csprojAssemblyReference.cache
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Form1.resources
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.Properties.Resources.resources
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csproj.GenerateResource.cache
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csproj.CoreCompileInputs.cache
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.csproj.CopyComplete
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.exe
+C:\Users\Che\Desktop\3443\ПРОЕКТ ПЕРВОМАЙ\ПЕРВОМАЙ\obj\x86\Debug\ПЕРВОМАЙ.pdb
